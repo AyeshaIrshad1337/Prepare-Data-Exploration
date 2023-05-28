@@ -10,7 +10,7 @@
 + Analyze
 + Share
 + Act
-## Collecting Data
+# Collecting Data
 + every thing is data
 + in every day each second we are getting data 
 + every picture is a data ..... a img has data in its pixels

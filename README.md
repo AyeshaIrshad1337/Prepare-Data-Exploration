@@ -36,7 +36,10 @@ Here are few factors we have to consider while considering what should we collec
 + Decide what data to use
 + How much data to collect
 + Select the right datatype
-
+## How the data will be collected
+Decide if you will collect the data using your own resources or receive (and possibly purchase it) from another party. Data that you collect yourself is called first-party data.  
+## Data sources  
+If you don’t collect the data using your own resources, you might get data from second-party or third-party data providers. Second-party data is collected directly by another group and then sold. Third-party data is sold by a provider that didn’t collect the data themselves. Third-party data might come from a number of different sources.  
 ### First-party data
 ``
 Data collected by an individual or group by using their own reference.
@@ -55,16 +58,20 @@ Data collected by a group directly from its audience and then sold. In our examp
  ``  
    
 Just remember that the data you choose should apply to your needs, and it must be approved for use. As a data analyst, it's your job to decide what data to use, and that means choosing the data that can help you find answers and solve problems and not getting distracted by other data. In traffic example, financial data probably wouldn't be that helpful, but existing data about high volume traffic times would be.
- 
-## How much data Needs to be collect:  
-
+## Solving your business problem  
+Datasets can show a lot of interesting information. But be sure to choose data that can actually help solve your problem question. For example, if you are analyzing trends over time, make sure you use time series data — in other words, data that includes dates.  
+## How much data Needs to be collect:   
+If you are collecting your own data, make reasonable decisions about sample size. A random sample from existing data might be fine for some projects. Other projects might need more strategic data collection to focus on certain criteria. Each project has its own needs.   
 In data analytics,`` a population refers to all possible data values in a certain data set.`` If you're analyzing data about car traffic in a city, your population would be all the cars in that area. But collecting data from the entire population can be pretty challenging. That's why a sample can be useful.`` A sample is a part of a population that is representative of the population.`` You might collect a data sample about one spot in the city and analyze the traffic there, or you might pull a random sample from all existing data in the population.  
-## Select the right datatype  
+## Select the right data:
 make sure you select the right data type. For traffic data, an appropriate data type could be the dates of traffic records stored in a date format. The dates could help you figure what days of the week there is likely to be a high volume of traffic in the future.
 
 <hr>  
+### Time frame
+If you are collecting your own data, decide how long you will need to collect it, especially if you are tracking trends over a long period of time. If you need an immediate answer, you might not have time to collect new data. In this case, you would need to use historical data that already exists.    
+Use the flowchart below if data collection relies heavily on how much time you have:    
   
-The time frame for data collection. In our example, if you needed an answer immediately, you'd have to use historical data, which is data that already exists. But let's say you needed to track traffic patterns over a long period of time. That might affect the other decisions you make during data collection.
+![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/4fe6aeb9-f123-46e1-9695-d85ea790c7a3)
 
 ## Question
 

@@ -65,3 +65,8 @@ make sure you select the right data type. For traffic data, an appropriate data 
 <hr>  
   
 The time frame for data collection. In our example, if you needed an answer immediately, you'd have to use historical data, which is data that already exists. But let's say you needed to track traffic patterns over a long period of time. That might affect the other decisions you make during data collection.
+
+## Question
+![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/74dc37ec-6639-4215-92f9-6a1668dce135)
+![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/2b581997-d409-4ae1-99f4-404db6a1da58)
+

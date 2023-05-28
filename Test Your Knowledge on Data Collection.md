@@ -2,43 +2,40 @@ Question 1
 Which method of data-collection is most commonly used by scientists?  
 
 
-1. Observations
++ Observations
 
 
-2. Questionnaires
++ Questionnaires
 
 
-3. Interviews
++ Interviews
 
 
-4. Surveys  
-Question 2  
-Organizations such as the U.S. Centers for Disease Control (CDC) often use data collected from hospitals. What kind of data is the CDC using if it is collected by hospitals, then sold to the CDC for its own analysis? 
++ Surveys    
+Question 2 Organizations such as the U.S. Centers for Disease Control (CDC) often use data collected from hospitals. What kind of data is the CDC using if it is collected by hospitals, then sold to the CDC for its own analysis? 
+
++ Second-party data
+
+
++ Multiple-party data
+
+
++ Third-party data
+
+
++ First-party data  
+Question 3 Fill in the blank: In data analytics, a _____ refers to all possible data values in a certain dataset. 
   
-
-1. Second-party data
-
-
-2. Multiple-party data
++ sample
 
 
-3. Third-party data
++ population
 
 
-4. First-party data  
-Question 3  
-Fill in the blank: In data analytics, a _____ refers to all possible data values in a certain dataset. 
-  
-1. sample
++ representation
 
 
-2. population
-
-
-3. representation
-
-
-4. source
++ source
 
 
 ## Answers 

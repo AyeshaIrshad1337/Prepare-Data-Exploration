@@ -67,6 +67,7 @@ In data analytics,`` a population refers to all possible data values in a certai
 make sure you select the right data type. For traffic data, an appropriate data type could be the dates of traffic records stored in a date format. The dates could help you figure what days of the week there is likely to be a high volume of traffic in the future.
 
 <hr>  
+  
 ### Time frame
 If you are collecting your own data, decide how long you will need to collect it, especially if you are tracking trends over a long period of time. If you need an immediate answer, you might not have time to collect new data. In this case, you would need to use historical data that already exists.    
 Use the flowchart below if data collection relies heavily on how much time you have:    

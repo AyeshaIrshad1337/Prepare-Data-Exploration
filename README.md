@@ -15,3 +15,16 @@
 + in every day each second we are getting data 
 + every picture is a data ..... a img has data in its pixels
 + but we do have to maintain the privacy constraint.
++ Another way is doing survey
++ Interview is also a way of collecting data
++ Scientist also generate data by studying behavior by the help of microscope and stuff
++ Data generated online is directly generated
+
+<hr>
+
++ Interviews
++ Observation
++ Forms
++ Questionaries
++ Surveys
++ Cookies

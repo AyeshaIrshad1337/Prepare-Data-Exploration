@@ -13,7 +13,7 @@ Which method of data-collection is most commonly used by scientists?
 
 + Surveys  
   
-**Question 2 **Organizations such as the U.S. Centers for Disease Control (CDC) often use data collected from hospitals. What kind of data is the CDC using if it is collected by hospitals, then sold to the CDC for its own analysis? 
+**Question 2** Organizations such as the U.S. Centers for Disease Control (CDC) often use data collected from hospitals. What kind of data is the CDC using if it is collected by hospitals, then sold to the CDC for its own analysis? 
 
 + Second-party data
 

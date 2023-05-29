@@ -10,7 +10,12 @@
 + Analyze
 + Share
 + Act
-# Collecting Data
+<details>
+ <summary>
+Collecting Data
+ </summary>
+<blockquote>
+ 
 + every thing is data
 + in every day each second we are getting data 
 + every picture is a data ..... a img has data in its pixels
@@ -29,15 +34,19 @@
 + Questionaries
 + Surveys
 + Cookies
-## What to collect for your data  
+<details>
+ <summary>What to collect for your data</summary>  
+ 
 Here are few factors we have to consider while considering what should we collect:  
 + How the data will be collected
 + Choose data sources : Collecting first-party data is typically perferred method because you know exactly where it came from
 + Decide what data to use
 + How much data to collect
 + Select the right datatype
-## How the data will be collected
+ <details><summary>How the data will be collected</summary>
 Decide if you will collect the data using your own resources or receive (and possibly purchase it) from another party. Data that you collect yourself is called first-party data.  
+ </details>  
+ 
 ## Data sources  
 If you don’t collect the data using your own resources, you might get data from second-party or third-party data providers. Second-party data is collected directly by another group and then sold. Third-party data is sold by a provider that didn’t collect the data themselves. Third-party data might come from a number of different sources.  
 ### First-party data
@@ -79,4 +88,6 @@ Use the flowchart below if data collection relies heavily on how much time you h
 ![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/54474c16-c37f-4cc4-8060-d30cec87079d)
 
 ![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/41a12688-1903-4971-9c9f-5853694afa1c)
-
+ </details>
+</blockquote> 
+</details>

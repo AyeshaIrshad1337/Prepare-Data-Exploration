@@ -194,5 +194,45 @@ Data modeling can help you explore the high-level details of your data and how i
 <details>
  <summary>Understanding Boolean data</summary>
    
- 
+These conditions are created with Boolean operators, including AND, OR, and NOT. These operators are similar to mathematical operators and can be used to create logical statements that filter your results. Data analysts use Boolean statements to do a wide range of data analysis tasks, such as creating queries for searches and checking for conditions when writing programming code. 
+   
+## Boolean logic example
+Imagine you are shopping for shoes, and are considering certain preferences:
+
+- You will buy the shoes only if they are pink and grey
+
+- You will buy the shoes if they are entirely pink or entirely grey, or if they are pink and grey
+
+- You will buy the shoes if they are grey, but not if they have any pink
+
+Below are Venn diagrams that illustrate these preferences. AND is the center of the Venn diagram, where two conditions overlap. OR includes either condition. NOT includes only the part of the Venn diagram that doesn't contain the exception.  
+  
+![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/a80b8bce-4fe3-4886-9689-6a664be4af49)
+   
+### The AND operator
+Your condition is “If the color of the shoe has any combination of grey and pink, you will buy them.” The Boolean statement would break down the logic of that statement to filter your results by both colors. It would say “IF (Color=”Grey”) AND (Color=”Pink”) then buy them.” The AND operator lets you stack multiple conditions. 
+
+Below is a simple truth table that outlines the Boolean logic at work in this statement. In the Color is Grey column, there are two pairs of shoes that meet the color condition. And in the Color is Pink column, there are two pairs that meet that condition. But in the If Grey AND Pink column, there is only one pair of shoes that meets both conditions. So, according to the Boolean logic of the statement, there is only one pair marked true. In other words, there is one pair of shoes that you can buy.
+  
+ ![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/3cf442ad-8325-4e25-af1c-b2760c5ddc19)
+  
+### The OR operator  
+   
+The OR operator lets you move forward if either one of your two conditions is met. Your condition is “If the shoes are grey or pink, you will buy them.” The Boolean statement would be “IF (Color=”Grey”) OR (Color=”Pink”) then buy them.” Notice that any shoe that meets either the Color is Grey or the Color is Pink condition is marked as true by the Boolean logic. According to the truth table below, there are three pairs of shoes that you can buy.  
+   
+ ![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/d4b6a81b-6aa5-4689-902b-4fa40eff052b)  
+   
+### The NOT operator  
+   
+Finally, the NOT operator lets you filter by subtracting specific conditions from the results. Your condition is "You will buy any grey shoe except for those with any traces of pink in them." Your Boolean statement would be “IF (Color="Grey") AND (Color=NOT “Pink”) then buy them.” Now, all of the grey shoes that aren't pink are marked true by the Boolean logic for the NOT Pink condition. The pink shoes are marked false by the Boolean logic for the NOT Pink condition. Only one pair of shoes is excluded in the truth table below.
+  
+ ![image](https://github.com/AyeshaIrshad1337/Prepare-Data-Exploration/assets/104616632/57cac2d5-ce18-4caf-9c4d-2ba573e4abba)  
+   
+## The power of multiple conditions
+For data analysts, the real power of Boolean logic comes from being able to combine multiple conditions in a single statement. For example, if you wanted to filter for shoes that were grey or pink, and waterproof, you could construct a Boolean statement such as: “IF ((Color = “Grey”) OR (Color = “Pink”)) AND (Waterproof=“True”).”  Notice that you can use parentheses to group your conditions together. 
+
+Whether you are doing a search for new shoes or applying this logic to your database queries, Boolean logic lets you create multiple conditions to filter your results. And now that you know a little more about how Boolean logic is used, you can start using it!
+
+
+
 </details>

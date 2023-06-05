@@ -191,3 +191,8 @@ There are a lot of approaches when it comes to developing data models, but two c
 Data modeling can help you explore the high-level details of your data and how it is related across the organization’s information systems. Data modeling sometimes requires data analysis to understand how the data is put together; that way, you know how to map the data. And finally, data models make it easier for everyone in your organization to understand and collaborate with you on your data. This is important for you and everyone on your team!   
  
 </details>
+<details>
+ <summary>Understanding Boolean data</summary>
+   
+ 
+</details>

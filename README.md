@@ -91,3 +91,46 @@ Use the flowchart below if data collection relies heavily on how much time you h
  </details>
 </blockquote> 
 </details>
+<details>
+ <summary>Data Format</summary>
+ 
+ ## Primary Vs Secondary
+ | Data Formation  | Definition |
+| ------------- | ------------- |
+| Primary Data | Collected by a researcher from first-hand sources  |
+| Secondary Data  | Gathered by other people or from other research  |
+ 
+ ## Internal Vs External
+| Data Formation  | Definition |
+| ------------- | ------------- |
+| Internal Data | Data that lives inside a company’s own systems  |
+| External Data  | Data that lives outside of a company or organization  |
+ 
+
+ ## Continuous Vs Discrete
+| Data Formation  | Definition |
+| ------------- | ------------- |
+| Continuous Data | Data that is measured and can have almost any numeric value  |
+| Discrete Data  | Data that is counted and has a limited number of values  |
+ 
+
+ ## Qualitative Vs Quantitative
+| Data Formation  | Definition |
+| ------------- | ------------- |
+| Qualitative Data | Subjective and explanatory measures of qualities and characteristics  |
+| Quantitative Data  | Specific and objective measures of numerical facts  |
+ 
+
+ ## Nomnial Vs Ordinal
+| Data Formation  | Definition |
+| ------------- | ------------- |
+| Nomnial Data | A type of qualitative data that isn’t categorized with a set order  |
+| Ordinal Data  |  A type of qualitative data with a set order or scale  | 
+ 
+ ## Structured Vs UnStructured
+| Data Formation  | Definition |
+| ------------- | ------------- |
+| Structure Data | Data organized in a certain format, like rows and columns  |
+| UnStructure Data  |  Data that isn’t organized in any easily identifiable manner  | 
+ 
+</details>
